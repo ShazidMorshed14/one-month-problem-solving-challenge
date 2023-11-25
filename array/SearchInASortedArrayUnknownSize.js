@@ -40,3 +40,4 @@ const result = search(nums, target);
 console.log(result);
 
 //binary search has a time complexity of nLogn
+//total time complexity of this problem is nLogN
